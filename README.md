@@ -64,7 +64,7 @@ The challenge: **Can we visualize Netflix’s library to uncover key insights ab
 
 ---
 
-##  Future Enhancements
+## Future Enhancements
 
 * Adding time-series forecasting to predict future content growth.
 * Genre clustering analysis to uncover Netflix’s focus areas by region.
@@ -76,7 +76,6 @@ The challenge: **Can we visualize Netflix’s library to uncover key insights ab
 
 This dashboard transforms Netflix’s massive dataset into an engaging, easy-to-explore visualization. It provides both casual viewers and analysts with actionable insights into **what Netflix offers, where it grows, and how its content is shaped across the globe**.
 
- If you like this project, don’t forget to ⭐ the repo and share your thoughts!
 
 ---
 
