@@ -51,7 +51,7 @@ The challenge: **Can we visualize Netflix’s library to uncover key insights ab
 ##  Files in this Repository
 
 * `Netflix.png` – Preview of the Tableau dashboard.
-* `NetflixDashboard.twbx` – Tableau packaged workbook (if included).
+* `NetflixDashboard.twbx` – Tableau packaged workbook.
 * `README.md` – Project documentation.
 
 ---
