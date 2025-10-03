@@ -1,4 +1,8 @@
-# Netflix src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix logo" width="32" style="vertical-align:middle">
+# Netflix Dashboard - Tableau
+
+
+<img width="1974" height="1061" alt="Netflix" src="https://github.com/user-attachments/assets/ebbb5774-e373-421f-937f-c90d4afc0172" />
+
 
 
 
@@ -76,9 +80,6 @@ This dashboard transforms Netflix’s massive dataset into an engaging, easy-to-
 
 ---
 
-##  Preview
-
-![Netflix Dashboard](Netflix.png)
 
 ## Portfolio
 https://amithgowda.netlify.app/
